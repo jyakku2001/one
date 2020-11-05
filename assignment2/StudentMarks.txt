@@ -1,0 +1,6 @@
+Math: 48
+Biology: 52
+IT: 53
+Painting: 45
+History: 38
+Final grade: F

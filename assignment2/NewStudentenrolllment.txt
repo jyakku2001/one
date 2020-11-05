@@ -1,0 +1,5 @@
+You enrolled 4483 Math first time. The fee is 1000.
+You enrolled 4485 Biology first time. The fee is 1580.
+You enrolled 4485 Biology first time. The fee is 1580
+You enrolled 4483 Math first time. The fee is 1580
+Your total fee of unit(s) are:5740

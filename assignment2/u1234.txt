@@ -1,0 +1,8 @@
+Student ID: u1234
+Math marks:50
+IT marks:50
+Biology marks:50
+Painting marks:50
+History marks:50
+Final grade: P
+50.0
